@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\mbanje.kurt\fabbutton\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1269933f2072036043a0c939be85cc70602af5c9">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\classes-af2b5ca9161e21d64e1f066efb65e233582b8ef7.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c2a834644c1c672d9fdfa247500964fd5050cc2d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\classes-a5ffb7862ade2058a9b655e1c401fe634b9e5282.jar" />
+    </item>
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\classes-d27e1560d97d38fa2f890f0c4b0549c786dcb18c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\classes-b895ca12598ece8e4f4788f0cf543bdf0ac78203.jar" />
+    </item>
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\classes-5020736369ceddb686be59dcfbe9a82e35775263.jar" />
+    </item>
+    <item
+        jar="D:\android_github\FabButton-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android_github\FabButton-master\demo\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-32d81881a20b1d8bd6ae607907c3b68d4d1262d7.jar" />
+    </item>
+
+</items>
